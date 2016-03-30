@@ -2,7 +2,7 @@ body {background-color: silver}
 
 h1 { color: gold;}
 h2 {color: white;}
-h4 {color: white;}
+h3 {color: white;}
 p {color: white;}
 
 header{
@@ -10,8 +10,9 @@ header{
 	border-style: solid;
 	border-color: brown;
 	height: 150px;
-	width: 923px
-	color: brown;}
+	
+	color: brown;
+}
 
 a {color: brown;}
 
@@ -21,7 +22,8 @@ article{
 
 	height: 800px;
 	width: 923px;
-	float:left;}
+	float:left;
+}
 
 table {
     width: 50%;
@@ -53,6 +55,7 @@ aside {
 
 footer {
 	background-color: brown;
+	clear: both;
 	height: 50px;
 	width: 923;
 }
