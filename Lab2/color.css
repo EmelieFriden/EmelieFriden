@@ -1,0 +1,58 @@
+body {background-color: silver}
+
+h1 { color: gold;}
+h2 {color: white;}
+h4 {color: white;}
+p {color: white;}
+
+header{
+	background-color: white;
+	border-style: solid;
+	border-color: brown;
+	height: 150px;
+	width: 923px
+	color: brown;}
+
+a {color: brown;}
+
+article{
+	background-color: silver;
+	color: gold;
+
+	height: 800px;
+	width: 923px;
+	float:left;}
+
+table {
+    width: 50%;
+}
+
+th {
+    height: 50px;
+}
+
+ol { background: white
+	padding: 50px ; }
+
+	ol li {
+    background: gold;
+    padding: 10px;
+    margin-left: 0px;}
+
+    ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+
+aside {
+	background-color: gold;
+	float: right;
+	height: 800px;
+	width: 245px;
+}
+
+footer {
+	background-color: brown;
+	height: 50px;
+	width: 923;
+}
