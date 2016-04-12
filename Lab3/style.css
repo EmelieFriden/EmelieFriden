@@ -1,0 +1,251 @@
+body{
+	background-color: #835B47;
+	
+
+}
+
+
+img{
+	width: 300px;
+	height: 200px;
+	float:left;
+}
+
+header{
+	text-align: center;
+	width: auto;
+	height: 60px;
+	background-color: #EBDCBF;
+	padding-top: 20px;
+}
+
+
+
+
+fieldset{
+	border-radius: 5px;
+	width: 300px;
+	height: 350px;
+	margin-right: 50px; 
+	margin-left: 50px;
+	margin-top: 30px;
+	padding-bottom: 30px;
+	float:left;
+}
+
+#container1{
+	width: 900px;
+	height: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background-color: #EBDCBF;
+}
+
+#container2{
+	width: 900px;
+	height: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background-color: #EBDCBF;
+}
+
+#container3{
+	width: 900px;
+	height: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background-color: #EBDCBF;
+}
+
+#container4{
+	width: 900px;
+	height: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	background-color: #EBDCBF;
+}
+
+#leveransadress{
+	width: 350px;
+	height: 400px;
+	
+
+	
+}
+
+#betalning{
+	width: 250px;
+	height: 400px;
+	
+	
+}
+
+footer{
+	width: auto;
+	height: 50px;
+	background-color: #EBDCBF; 
+	clear: both;
+	text-align: center;
+	padding-bottom: 35px;
+}
+
+#p1{
+	text-align: center;
+	padding-top: 150px;
+}
+
+#p2{
+	text-align: center;
+	padding-top: 72px;
+
+}
+
+#p3{
+	text-align: center;
+	padding-top: 600px;
+
+
+}
+
+#p4{
+	text-align: center;
+	padding-top: 340px;
+}
+
+#green{
+	width: 80px;
+	height: 80px;
+	float:left;
+}
+
+#prinsessa{
+	vertical-align: text-top;
+	text-align: center;
+	margin-top:-2px;
+
+}
+
+#bank{
+	width: 80px;
+	height: 30px;
+	float: right;
+	padding-right: 50px;
+}
+
+#frakt{
+	border-width: 15px;
+	border-style: solid;
+	border-radius: 5%;
+
+}
+
+
+
+#resultat1 table,tr,td{
+	width: 200px;
+	height: 50px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 315px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: left;
+
+
+}
+
+#knapp{
+	
+	padding-top: 100px;
+	margin-left: 320px;
+	
+}
+
+
+
+p{
+	color: green;
+	font-size: 18px;
+	font-family: "times new roman", times, serif;
+	font-style: italic;
+}
+
+
+
+#betyg{
+	background-color: white;
+	width: 400px;
+	height: 600px;
+	float: left;
+	border-radius: 10px;
+	padding-left: 50px;
+	margin-left: 220px;
+	margin-top: 50px;
+	
+}
+#kommentar{
+	float: left;
+	
+
+}
+
+#kommentarer{
+
+	margin-top: 20px;
+	margin-right: 500px;
+	margin-left: 100px;
+	padding right: 50px;
+
+
+
+	
+}
+
+#tack{
+	float: left;
+}
+
+h2{
+	margin-left: 50px;
+	padding-top: 20px;
+}
+
+#rubrik2{
+	float: right;
+	padding-top: 5px;
+}
+
+#rubrik1{
+	float:right;
+	padding-top: 27px;
+}
+
+#nummer1{
+	float left;
+	padding-top: 20px;
+}
+
+#kvitto{
+	margin-right: 95px;
+	float: right;
+}
+
+#rubriken{
+	text-align: center;
+	margin-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+

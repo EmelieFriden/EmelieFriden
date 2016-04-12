@@ -1,4 +1,8 @@
 body {background-color: silver}
+img {
+	width: 400px;
+	height: 300px;
+}
 
 h1 { color: gold;}
 h2 {color: white;}
@@ -9,7 +13,7 @@ header{
 	background-color: white;
 	border-style: solid;
 	border-color: brown;
-	height: 150px;
+	height: 200px;
 	
 	color: brown;
 }
@@ -19,11 +23,14 @@ a {color: brown;}
 article{
 	background-color: silver;
 	color: gold;
+	color: black;
 
 	height: 800px;
 	width: 923px;
 	float:left;
 }
+
+table, td, th { border: 1px solid gray }
 
 table {
     width: 50%;
@@ -46,13 +53,16 @@ ol { background: white
     margin: 5px;
 }
 
+
 aside {
 	background-color: gold;
 	float: right;
 	height: 800px;
 	width: 245px;
+ 
 }
 
+ 
 footer {
 	background-color: brown;
 	clear: both;
